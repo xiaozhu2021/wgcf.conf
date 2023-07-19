@@ -1,4 +1,4 @@
-**wgcf.conf** - CloudFlare WARP+ 中提取的 WireGuard 配置
+![wgcf.conf](https://socialify.git.ci/xiaozhu2021/wgcf.conf/image?description=1&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Light)
 
 ---
 
